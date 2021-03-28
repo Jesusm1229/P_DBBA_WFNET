@@ -6,7 +6,7 @@ Consiste en la lectura e interpretación de una sucesión de tuplas almacenadas 
 Los datos deben ser introducidos en una BDD postgress en el store Heroku. Para esto, se cuenta con dos tablas que determinan a la 
 composición de autor y libros. 
 
-Se hace uso de QUERIES SQL postgress, además de funciones PL/pgSQL en el manejador PGAdmin. 
+Se hace uso de QUERIES SQL postgress, además de funciones PL/pgSQL en el manejador PGAdmin para agilizar la lectura y traslado de datos. 
 
 ![Pgadmin](https://user-images.githubusercontent.com/48733708/112758636-5c982d80-8fbd-11eb-91b2-155e5e4d1356.png)
 
