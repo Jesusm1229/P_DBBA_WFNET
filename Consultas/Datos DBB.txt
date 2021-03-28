@@ -1,0 +1,7 @@
+Host ec2-52-70-67-123.compute-1.amazonaws.com
+Database d1p1v068vm8sgl
+User wqpiymnsewyvom
+Port 5432
+Password aa331e27c72537501ffe81dce122856c780d55abb30bd4d1c2d0543508f7a78e
+URI postgres://wqpiymnsewyvom:aa331e27c72537501ffe81dce122856c780d55abb30bd4d1c2d0543508f7a78e@ec2-52-70-67-123.compute-1.amazonaws.com:5432/d1p1v068vm8sgl
+Heroku CLI heroku pg:psql postgresql-opaque-47384 --app bdd-prueba
